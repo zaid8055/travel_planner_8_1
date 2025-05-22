@@ -82,3 +82,72 @@
 
 
 
+
+
+
+
+
+
+                </div>
+
+                <p class="card-subtitle">
+                  <a href="#">Dubai</a>
+                </p>
+
+                <h3 class="h3 card-title">
+                  <a href="#">Burj khalifa</a>
+                </h3>
+
+                <p class="card-text">
+                  Fusce hic augue velit wisi ips quibusdam pariatur, iusto.
+                </p>
+
+              </div>
+
+            </div>
+          </li>
+
+          <li>
+            <div class="popular-card">
+
+              <figure class="card-img">
+                <img decoding="async" src="./assets/images/popular-3.jpg" alt="Kyoto temple, japan" loading="lazy">
+              </figure>
+
+              <div class="card-content">
+
+                <div class="card-rating">
+
+
+
+
+
+                </div>
+
+                <p class="card-subtitle">
+                  <a href="#">Japan</a>
+                </p>
+
+                <h3 class="h3 card-title">
+                  <a href="#">Kyoto temple</a>
+                </h3>
+
+                <p class="card-text">
+                  Fusce hic augue velit wisi ips quibusdam pariatur, iusto.
+                </p>
+
+              </div>
+
+            </div>
+          </li>
+
+        </ul>
+
+        <button class="btn btn-primary">More destintion</button>
+
+      </div>
+    </section>
+
+
+
+
